@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "my website",
+      "body": "bodyyyyy",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "opening parrty",
+      "body": "bodyyyyy",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "a",
+      "body": "b",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "bbbbbb",
+      "body": "bbbbbbb",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "hellos ninja",
+      "body": "home",
+      "author": "mario",
+      "id": 6
+    }
+  ]
+}

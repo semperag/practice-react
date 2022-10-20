@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+  font-size: 2em;
+}
+
+#navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: blue;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: beige;
+}
+
+#filter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: red;
+}
+
+.country {
+  width: 21%;
+  background-color: antiquewhite;
+  border-radius: 10px;
+  overflow: hidden;
+  text-align: start;
+}
+
+.country-container {
+  margin: 10px;
+  padding-bottom: 15px;
+}
+
+.quick-facts {
+  font-size: .7em;
+  text-align: start;
+}
+
+img {
+  height: 150px;
+  width: 100%;
+}
